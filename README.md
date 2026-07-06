@@ -73,8 +73,6 @@ Mobile App Development · Database Systems · Systems Analysis · Software Engin
 
 ### 📫 Connect with Me
 - 📧 mo7ammedals7aer@gmail.com
-- 💻 GitHub: [github.com/moh12334](https://github.com/mo7ammedalshaer)
+- 💻 GitHub: [github.com/mo7ammedalshaer](https://github.com/mo7ammedalshaer)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moh12334&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
+

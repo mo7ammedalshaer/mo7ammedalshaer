@@ -4,7 +4,8 @@
 <p align="center">
   <a href="mailto:mo7ammedals7aer@gmail.com"><img src="https://img.shields.io/badge/Email-mo7ammedals7aer%40gmail.com-red?style=flat&logo=gmail"></a>
   <img src="https://img.shields.io/badge/Location-Gaza%2C%20Palestine-green?style=flat">
-  <img src="https://img.shields.io/badge/Phone-%2B970%2059%20773%201636-blue?style=flat">
+   <img src="https://img.shields.io/badge/Phone-%2B972%20597%20731%20636-blue?style=flat">
+</p>
 </p>
 
 ---

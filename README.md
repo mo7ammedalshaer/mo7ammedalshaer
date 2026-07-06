@@ -29,7 +29,7 @@ Android and Flutter Developer with **4+ years** of experience in mobile applicat
 - Integrated Firebase Realtime Database and SQLite
 - Worked on e-commerce and management systems
 
-**University Lecturer** — Al-Aqsa University · *Feb 2023 – Jul 2023*
+**University Lecturer** — Al-Aqsa University · *Feb 2023 – Jul 2025*
 - Taught Mobile Programming II, Programming Language I, and UI/UX
 
 **University Lecturer** — Arab College of Applied Sciences · *Sep 2022 – Jan 2023*
